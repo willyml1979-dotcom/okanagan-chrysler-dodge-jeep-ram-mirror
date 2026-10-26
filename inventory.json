@@ -1,6 +1,6 @@
 {
   "dealership": "Okanagan Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-10-25T18:17:13",
+  "generated_at": "2026-10-26T03:09:30",
   "vehicle_count": 611,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1659,7 +1659,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 28904.0,
+      "price": 27904.0,
       "price_currency": "CAD"
     },
     {
@@ -1769,7 +1769,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 16904.0,
+      "price": 16797.0,
       "price_currency": "CAD"
     },
     {
@@ -1802,7 +1802,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 19688.0,
+      "price": 22904.0,
       "price_currency": "CAD"
     },
     {
@@ -1813,7 +1813,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 20904.0,
+      "price": 20797.0,
       "price_currency": "CAD"
     },
     {
@@ -1824,7 +1824,7 @@
       "make": "Hyundai",
       "model": "Accent",
       "condition": "used",
-      "price": 15904.0,
+      "price": 15774.0,
       "price_currency": "CAD"
     },
     {
@@ -1857,7 +1857,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 17304.0,
+      "price": 17197.0,
       "price_currency": "CAD"
     },
     {
@@ -1868,7 +1868,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "used",
-      "price": 15904.0,
+      "price": 15397.0,
       "price_currency": "CAD"
     },
     {
