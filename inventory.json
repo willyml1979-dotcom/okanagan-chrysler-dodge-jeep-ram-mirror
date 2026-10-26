@@ -1,7 +1,7 @@
 {
   "dealership": "Okanagan Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-10-26T03:18:22",
-  "vehicle_count": 611,
+  "generated_at": "2026-10-26T11:16:50",
+  "vehicle_count": 609,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1909,7 +1909,7 @@
       "make": "Jaguar",
       "model": "E-PACE",
       "condition": "used",
-      "price": 21304.0,
+      "price": 20904.0,
       "price_currency": "CAD"
     },
     {
@@ -1925,17 +1925,17 @@
     },
     {
       "name": "2019 Jeep Cherokee ",
-      "vin": "1C4PJMBN6KD148418",
+      "vin": "1C4PJMDNXKD344942",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/f55782a1573d.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 19408.0,
+      "price": 21904.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Compass 2019 JEEP COMPASS, LEATHER, HEATED SEATS & WHEEL, BACKUP CAMERA, EXTRA TIRES! READY FOR ANY SEASON!in Kelowna",
+      "name": "2019 Jeep Compass Limited NO ACCIDENTS! WINTER TIRES! LEATHER! REMTOE START! HEATED SEATS & WHEELin Kelowna",
       "vin": "3C4NJDCB2KT753610",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/aca67ed91ff7.html",
       "year": 2019,
@@ -1946,14 +1946,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Compass ADVENTURE STARTS HERE IN THIS SHARP JEEP COMPASS! LEATHER SEATS, POWER DOORS & MIRRORSin Kelowna",
+      "name": "2019 Jeep Compass Trailhawk DEALER SERVICED! RUBICON TRAIL READY! HEATED LEATHER SEATS & WHEEL! CRAWL IN COMFORT!in Kelowna",
       "vin": "3C4NJDDB6KT675119",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/e68fb78e16eb.html",
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass ADVENTURE STARTS HERE IN THIS SHARP JEEP COMPASS! LEATHER SEATS, POWER DOORS & MIRRORSin Kelowna",
+      "model": "Compass",
       "condition": "used",
-      "price": 20404.0,
+      "price": 19404.0,
       "price_currency": "CAD"
     },
     {
@@ -1986,7 +1986,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 23804.0,
+      "price": 22797.0,
       "price_currency": "CAD"
     },
     {
@@ -1997,7 +1997,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 29904.0,
+      "price": 29404.0,
       "price_currency": "CAD"
     },
     {
@@ -2628,17 +2628,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Forester ",
-      "vin": "JF2SKEJC4LH476770",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/44df0ad4bb37.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 25903.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Tesla Model 3 ",
       "vin": "5YJ3E1EA3LF738807",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/a58577e79cf1.html",
@@ -2713,17 +2702,6 @@
       "model": "Trax",
       "condition": "used",
       "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chrysler 300 ",
-      "vin": "2C3CCAGG2MH602899",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/9f99262058e6.html",
-      "year": 2021,
-      "make": "Chrysler",
-      "model": "300",
-      "condition": "used",
-      "price": 30404.0,
       "price_currency": "CAD"
     },
     {
