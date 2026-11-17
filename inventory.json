@@ -1,104 +1,40 @@
 {
   "dealership": "Okanagan Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-10-26T11:16:50",
-  "vehicle_count": 609,
+  "generated_at": "2026-11-16T19:39:20",
+  "vehicle_count": 612,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Chrysler Grand Caravan SXTin Kelowna",
+      "name": "Chrysler Grand Caravan 2026 for salein Kelowna",
       "vin": "2C4RC1ZG5TR227246",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/379df20d85a5.html",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/6740278cf618.html",
       "condition": "new",
       "price": 47495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Wrangler Sportin Kelowna",
-      "vin": "1C4PJXAN1TW224751",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/e12aed990a10.html",
+      "name": "Dodge Charger 2026 for salein Kelowna",
+      "vin": "2C3CDARP3TR288232",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/0df8340808a3.html",
       "condition": "new",
-      "price": 45585.0,
+      "price": 79495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Wrangler Saharain Kelowna",
-      "vin": "1C4PJXEN1TW251202",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/3b501f3d2f72.html",
+      "name": "Dodge Durango 2026 for salein Kelowna",
+      "vin": "1C4RDJDG1TC319967",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/5883b9f081e9.html",
       "condition": "new",
-      "price": 59995.0,
+      "price": 54890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Wrangler Sport Sin Kelowna",
-      "vin": "1C4PJXDN3TW310686",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/91c201d2b80e.html",
+      "name": "Fiat 500e 2026 for salein Kelowna",
+      "vin": "ZFAFFAB41TX295482",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/af696c031beb.html",
       "condition": "new",
-      "price": 61980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Wrangler Sport Sin Kelowna",
-      "vin": "1C4PJXDG2TW217739",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/0601644ef674.html",
-      "condition": "new",
-      "price": 59265.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Express | INC. MUD FLAPSin Kelowna",
-      "vin": "3C6RRFGG9T4161779",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/2b94b8c7d759.html",
-      "condition": "new",
-      "price": 62685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Express | INC. RUNNING BOARDS + MUD FLAPSin Kelowna",
-      "vin": "1C6RRFCG7TN381613",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1ec3da9051d4.html",
-      "condition": "new",
-      "price": 60856.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Grand Caravan SXTin Kelowna",
-      "vin": "2C4RC1ZG0VR565673",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/3d669375007c.html",
-      "condition": "new",
-      "price": 50590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Selectin Kelowna",
-      "vin": "2C4RC1BG3VR551602",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/45e23915e88c.html",
-      "condition": "new",
-      "price": 55085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Select Awdin Kelowna",
-      "vin": "2C4RC3BG6VR630077",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1f13871f31a0.html",
-      "condition": "new",
-      "price": 61130.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Jeep Gladiator Sport Sin Kelowna",
-      "vin": "1C6PJTAGXVL555589",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/040036b24e77.html",
-      "condition": "new",
-      "price": 61620.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Jeep Gladiator Sport Sin Kelowna",
-      "vin": "1C6RJTAG1VL553691",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1f80f697aa7c.html",
-      "condition": "new",
-      "price": 63725.0,
+      "price": 34985.0,
       "price_currency": "CAD"
     },
     {
@@ -5551,9 +5487,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chrysler Grand Caravan ",
+      "name": "New 2026 Chrysler Grand Caravan SXTin Kelowna",
       "vin": "2C4RC1ZG5TR227246",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/6740278cf618.html",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/379df20d85a5.html",
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
@@ -5593,18 +5529,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Charger ",
-      "vin": "2C3CDARP3TR288232",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/0df8340808a3.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "new",
-      "price": 81495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GTin Kelowna",
+      "name": "New 2026 Dodge Durango GTin Kelowna",
       "vin": "1C4RDJDG1TC234725",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/a85ccac0a1e0.html",
       "year": 2026,
@@ -5615,7 +5540,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GTin Kelowna",
+      "name": "New 2026 Dodge Durango GTin Kelowna",
       "vin": "1C4RDJDG3TC234726",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/e493e86a5677.html",
       "year": 2026,
@@ -5626,7 +5551,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GTin Kelowna",
+      "name": "New 2026 Dodge Durango GTin Kelowna",
       "vin": "1C4RDJDG2TC227783",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/99cf2e320b16.html",
       "year": 2026,
@@ -5645,28 +5570,6 @@
       "model": "Durango",
       "condition": "new",
       "price": 54890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango ",
-      "vin": "1C4RDJDG1TC319967",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/5883b9f081e9.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 54890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Fiat 500e ",
-      "vin": "ZFAFFAB41TX295482",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/af696c031beb.html",
-      "year": 2026,
-      "make": "Fiat",
-      "model": "500e",
-      "condition": "new",
-      "price": 34985.0,
       "price_currency": "CAD"
     },
     {
@@ -5934,7 +5837,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limitedin Kelowna",
+      "name": "New 2026 Jeep Cherokee Limitedin Kelowna",
       "vin": "3C4PJMB21TT206226",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/b536b157771e.html",
       "year": 2026,
@@ -5945,7 +5848,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Kelowna",
+      "name": "New 2026 Jeep Cherokee Laredoin Kelowna",
       "vin": "3C4PJMB20TT216083",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/18e0d14a0887.html",
       "year": 2026,
@@ -5956,7 +5859,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Kelowna",
+      "name": "New 2026 Jeep Cherokee Laredoin Kelowna",
       "vin": "3C4PJMB28TT222049",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/9c5c2d64343b.html",
       "year": 2026,
@@ -5967,7 +5870,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Kelowna",
+      "name": "New 2026 Jeep Cherokee Laredoin Kelowna",
       "vin": "3C4PJMB26TT222048",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/6d3479e78d4e.html",
       "year": 2026,
@@ -5978,7 +5881,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limitedin Kelowna",
+      "name": "New 2026 Jeep Cherokee Limitedin Kelowna",
       "vin": "3C4PJMB27TT239747",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/e0414f296dc1.html",
       "year": 2026,
@@ -5989,7 +5892,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limitedin Kelowna",
+      "name": "New 2026 Jeep Cherokee Limitedin Kelowna",
       "vin": "3C4PJMB24TT204552",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/9b818a4c7497.html",
       "year": 2026,
@@ -6000,7 +5903,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limitedin Kelowna",
+      "name": "New 2026 Jeep Cherokee Limitedin Kelowna",
       "vin": "3C4PJMB29TT239748",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/6cfb455ba6e0.html",
       "year": 2026,
@@ -6209,6 +6112,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Wrangler Sportin Kelowna",
+      "vin": "1C4PJXAN1TW224751",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/e12aed990a10.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 45585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Saharain Kelowna",
+      "vin": "1C4PJXEN1TW251202",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/3b501f3d2f72.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 59995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Sport Sin Kelowna",
+      "vin": "1C4PJXDN3TW310686",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/91c201d2b80e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 61980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Sport Sin Kelowna",
+      "vin": "1C4PJXDG2TW217739",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/0601644ef674.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 59265.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Wrangler ",
       "vin": "1C4PJXAN1TW224751",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/e63f210f359e.html",
@@ -6308,6 +6255,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 RAM 1500 Express | INC. MUD FLAPSin Kelowna",
+      "vin": "3C6RRFGG9T4161779",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/2b94b8c7d759.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 62685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Express | INC. RUNNING BOARDS + MUD FLAPSin Kelowna",
+      "vin": "1C6RRFCG7TN381613",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1ec3da9051d4.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 60856.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Tradesman | MANAGER'S SPECIAL! | INC. RUNNING BOARDS + SPLASH GUARDS | 5'7\" Boxin Kelowna",
+      "vin": "3C6SRFGP1T4178836",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/b154af6e7895.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 62495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Tradesman | MANAGER'S SPECIAL! | INC. RUNNING BOARDS + MUD FLAPS | 5'7\" Boxin Kelowna",
+      "vin": "3C6SRFGP1T4180165",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/aa477d47d7ca.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 62495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Tradesman | MANAGER'S SPECIAL! | INCL. RUNNING BOARDS + SPLASH GUARDS | 5'7\" Boxin Kelowna",
+      "vin": "3C6SRFGP3T4178837",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/4850ad2822be.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 62495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 RAM 1500 ",
       "vin": "1C6RRFCG7TN381613",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/ece0af586863.html",
@@ -6402,6 +6404,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Chrysler Grand Caravan SXTin Kelowna",
+      "vin": "2C4RC1ZG0VR565673",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/3d669375007c.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "condition": "new",
+      "price": 50590.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Chrysler Grand Caravan ",
       "vin": "2C4RC1ZG0VR565673",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/666745ded703.html",
@@ -6410,6 +6423,28 @@
       "model": "Grand Caravan",
       "condition": "new",
       "price": 50590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Kelowna",
+      "vin": "2C4RC1BG3VR551602",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/45e23915e88c.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 55085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Select Awdin Kelowna",
+      "vin": "2C4RC3BG6VR630077",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1f13871f31a0.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 61130.0,
       "price_currency": "CAD"
     },
     {
@@ -6543,6 +6578,28 @@
       "model": "Wranglerin Kelowna",
       "condition": "new",
       "price": 46595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Jeep Gladiator Sport Sin Kelowna",
+      "vin": "1C6PJTAGXVL555589",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/040036b24e77.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 61620.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Jeep Gladiator Sport Sin Kelowna",
+      "vin": "1C6RJTAG1VL553691",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1f80f697aa7c.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 63725.0,
       "price_currency": "CAD"
     },
     {
