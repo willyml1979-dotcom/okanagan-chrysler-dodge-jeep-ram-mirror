@@ -1,7 +1,7 @@
 {
   "dealership": "Okanagan Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-11-18T04:43:12",
-  "vehicle_count": 646,
+  "generated_at": "2026-11-18T13:00:17",
+  "vehicle_count": 644,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -35,14 +35,6 @@
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/aa4322269515.html",
       "condition": "used",
       "price": 15797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Audi A5 2012 for salein Kelowna",
-      "vin": "WAUVFBFR1CA015821",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/34a8138c93a3.html",
-      "condition": "used",
-      "price": 9908.0,
       "price_currency": "CAD"
     },
     {
@@ -166,14 +158,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Chrysler Pacifica 2018 for salein Kelowna",
-      "vin": "2C4RC1EG1JR173883",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/f83768119007.html",
-      "condition": "used",
-      "price": 16904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Honda CR-V 2018 for salein Kelowna",
       "vin": "2HKRW2H97JH103442",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/448f59ebfda3.html",
@@ -275,6 +259,14 @@
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/83476deda65e.html",
       "condition": "used",
       "price": 20904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX50 2019 for salein Kelowna",
+      "vin": "3PCAJ5M39KF127577",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/15158c4aa10d.html",
+      "condition": "used",
+      "price": 17904.0,
       "price_currency": "CAD"
     },
     {
@@ -718,11 +710,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Compass 2021 for salein Kelowna",
+      "vin": "3C4NJDBB0MT598205",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/8a86ab196a2b.html",
+      "condition": "used",
+      "price": 26604.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Gladiator 2021 for salein Kelowna",
       "vin": "1C6JJTEG5ML598400",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b9325f93aebd.html",
       "condition": "used",
       "price": 39904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2021 for salein Kelowna",
+      "vin": "1C4RJFAG4MC524226",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/9d9378a23052.html",
+      "condition": "used",
+      "price": 21404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2021 for salein Kelowna",
+      "vin": "1C4HJXEG9MW638118",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/28cd0941d270.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4xe 2021 for salein Kelowna",
+      "vin": "1C4JJXP63MW709142",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/3418a097c5a4.html",
+      "condition": "used",
+      "price": 32904.0,
       "price_currency": "CAD"
     },
     {
@@ -734,11 +758,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Seltos 2021 for salein Kelowna",
+      "vin": "KNDETCA2XM7201433",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b44cacdca300.html",
+      "condition": "used",
+      "price": 20797.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Kia Soul 2021 for salein Kelowna",
       "vin": "KNDJ23AU2M7756623",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/2fa4a3ce29b5.html",
       "condition": "used",
       "price": 18904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2021 for salein Kelowna",
+      "vin": "KNDPNCAC5M7922173",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/c98fa5a27834.html",
+      "condition": "used",
+      "price": 23905.0,
       "price_currency": "CAD"
     },
     {
@@ -758,11 +798,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda CX-5 2021 for salein Kelowna",
+      "vin": "JM3KFBCM9M1123367",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/1862de728066.html",
+      "condition": "used",
+      "price": 27404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2021 for salein Kelowna",
+      "vin": "5N1AT3BB7MC762365",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/9d6247db724d.html",
+      "condition": "used",
+      "price": 18797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Crosstrek 2021 for salein Kelowna",
+      "vin": "JF2GTAPC6M8652304",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/25bc02957a05.html",
+      "condition": "used",
+      "price": 29827.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2021 for salein Kelowna",
+      "vin": "JF2SKEMCXMH545118",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/1297997002a0.html",
+      "condition": "used",
+      "price": 32327.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Tesla Model Y 2021 for salein Kelowna",
       "vin": "5YJYGDEE8MF229916",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/c7d8de35bc1b.html",
       "condition": "used",
       "price": 39904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Camry 2021 for salein Kelowna",
+      "vin": "4T1G11BKXMU045313",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/d567649366e3.html",
+      "condition": "used",
+      "price": 25904.0,
       "price_currency": "CAD"
     },
     {
@@ -774,6 +854,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Toyota RAV4 2021 for salein Kelowna",
+      "vin": "2T3B1RFV6MC149335",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/08cd622fb8da.html",
+      "condition": "used",
+      "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Tacoma 2021 for salein Kelowna",
       "vin": "5TFCZ5AN9MX279259",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/bc6d9ca6497a.html",
@@ -782,11 +870,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Jetta 2021 for salein Kelowna",
+      "vin": "3VWE57BU9MM031862",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b024dc2c53a5.html",
+      "condition": "used",
+      "price": 20797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2021 for salein Kelowna",
+      "vin": "3VV2B7AX6MM159861",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b49c98370a5f.html",
+      "condition": "used",
+      "price": 20906.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW iX 2022 for salein Kelowna",
       "vin": "WB523CF05NCJ71563",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/383c704c98f4.html",
       "condition": "used",
       "price": 49404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Spark 2022 for salein Kelowna",
+      "vin": "KL8CD6SA2NC024244",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/d8e6f4f41da9.html",
+      "condition": "used",
+      "price": 16904.0,
       "price_currency": "CAD"
     },
     {
@@ -974,6 +1086,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2024 for salein Kelowna",
+      "vin": "1C6SRFVT3RN114408",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/707fd9df56af.html",
+      "condition": "used",
+      "price": 55904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Sienna 2024 for salein Kelowna",
       "vin": "5TDGRKEC4RS216284",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/d5ee14b13a17.html",
@@ -1110,6 +1230,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Toyota RAV4 Hybrid 2025 for salein Kelowna",
+      "vin": "2T3BWRFV3SW253391",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/7232d9eef784.html",
+      "condition": "used",
+      "price": 45904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Blazer 2026 for salein Kelowna",
       "vin": "3GNKBKRS0TS123479",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/21d868236afd.html",
@@ -1155,14 +1283,6 @@
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/479a7ffc5f26.html",
       "condition": "used",
       "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Corolla 2026 for salein Kelowna",
-      "vin": "JTDBCMFE2T3143903",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/a8c00eef2018.html",
-      "condition": "used",
-      "price": 36904.0,
       "price_currency": "CAD"
     },
     {
@@ -1347,17 +1467,6 @@
       "model": "Trax",
       "condition": "used",
       "price": 15908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Hyundai Santa Fe Sport ",
-      "vin": "5XYZUDLB0EG197110",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/30b46722bb7c.html",
-      "year": 2014,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 10268.0,
       "price_currency": "CAD"
     },
     {
@@ -2502,6 +2611,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Infiniti QX50 Essentialin Kelowna",
+      "vin": "3PCAJ5M39KF127577",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/c9ed87da91f5.html",
+      "year": 2019,
+      "make": "Infiniti",
+      "model": "QX50",
+      "condition": "used",
+      "price": 17904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Jaguar E-PACE ",
       "vin": "SADFL2GX1K1Z51485",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/821e5c8edcf1.html",
@@ -3052,28 +3172,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Compass ",
-      "vin": "3C4NJDBB0MT598205",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/8a86ab196a2b.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 26904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFAG4MC524226",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/9d9378a23052.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 22804.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Wrangler Unlimited Sahara 80th Anniversary | Heated Seats & Steering Wheel | Remote Start | Keyless Entryin Kelowna",
       "vin": "1C4HJXEG9MW638118",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/794df926a426.html",
@@ -3082,17 +3180,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 30904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Wrangler ",
-      "vin": "1C4HJXEG9MW638118",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/28cd0941d270.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 29904.0,
       "price_currency": "CAD"
     },
     {
@@ -3107,17 +3194,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Wrangler 4xe ",
-      "vin": "1C4JJXP63MW709142",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/3418a097c5a4.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 34904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Wrangler ",
       "vin": "1C4HJXEG9MW638118",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/28cd0941d270.html",
@@ -3129,28 +3205,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Seltos ",
-      "vin": "KNDETCA2XM7201433",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b44cacdca300.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 20797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Sportage ",
-      "vin": "KNDPNCAC4M7929096",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/c98fa5a27834.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 23904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Mazda CX-30 ",
       "vin": "3MVDMBB79MM241360",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/eec0d378f677.html",
@@ -3159,17 +3213,6 @@
       "model": "CX-30",
       "condition": "used",
       "price": 23904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Mazda CX-5 ",
-      "vin": "JM3KFBCM9M1123367",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/1862de728066.html",
-      "year": 2021,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 27904.0,
       "price_currency": "CAD"
     },
     {
@@ -3195,17 +3238,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Nissan Rogue ",
-      "vin": "5N1AT3BB7MC762365",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/9d6247db724d.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 19797.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 RAM 3500 ",
       "vin": "3C63R3EL5MG691168",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/7108f1454834.html",
@@ -3214,28 +3246,6 @@
       "model": "3500",
       "condition": "used",
       "price": 70904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru Crosstrek ",
-      "vin": "JF2GTABC1M8202051",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/25bc02957a05.html",
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 24908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru Forester ",
-      "vin": "JF2SKEMCXMH545118",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/1297997002a0.html",
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 33727.0,
       "price_currency": "CAD"
     },
     {
@@ -3250,50 +3260,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Camry ",
-      "vin": "4T1G11BKXMU045313",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/d567649366e3.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 30404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota RAV4 ",
-      "vin": "2T3B1RFV6MC149335",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/08cd622fb8da.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 31904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Jetta ",
-      "vin": "3VWE57BU9MM031862",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b024dc2c53a5.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 20908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX6MM159861",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/b49c98370a5f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 20906.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Chevrolet Equinox ",
       "vin": "3GNAXUEV6NL244118",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/c46f261c9141.html",
@@ -3302,17 +3268,6 @@
       "model": "Equinox",
       "condition": "used",
       "price": 24904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chevrolet Spark ",
-      "vin": "KL8CD6SA2NC024244",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/d8e6f4f41da9.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Spark",
-      "condition": "used",
-      "price": 17904.0,
       "price_currency": "CAD"
     },
     {
@@ -3764,17 +3719,6 @@
       "model": "E-series",
       "condition": "used",
       "price": 52904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Escape Hybrid ",
-      "vin": "1FMCU0E19PUA55841",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/92dc64ff318c.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Escape Hybrid",
-      "condition": "used",
-      "price": 30904.0,
       "price_currency": "CAD"
     },
     {
@@ -5282,17 +5226,6 @@
       "model": "Kicks",
       "condition": "used",
       "price": 31904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks Play SV | Heated Seats | Remote Start | Remote Keyless Entry | Apple CarPlay & Android Auto | Bluetoothin Kelowna",
-      "vin": "3N1CP5CV4SL479951",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/a5e5b925b7da.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 22904.0,
       "price_currency": "CAD"
     },
     {

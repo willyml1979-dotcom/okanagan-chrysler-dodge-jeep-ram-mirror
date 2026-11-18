@@ -1,6 +1,6 @@
 # Okanagan Chrysler Dodge Jeep Ram
 
- dealership in Kelowna. AI-readable inventory mirror, about 646 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 644 vehicles.
 
 - Official website: https://www.okanagandodge.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/
