@@ -7,7 +7,7 @@ Okanagan Chrysler Dodge Jeep Ram is a  dealership in Kelowna. This site is an AI
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/ and https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/ (about 612 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/ and https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/ (about 646 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/llms.txt
