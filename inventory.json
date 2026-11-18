@@ -1,7 +1,7 @@
 {
   "dealership": "Okanagan Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-11-17T17:14:36",
-  "vehicle_count": 646,
+  "generated_at": "2026-11-17T18:33:48",
+  "vehicle_count": 647,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1082,6 +1082,22 @@
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/af696c031beb.html",
       "condition": "new",
       "price": 34985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Kelowna",
+      "vin": "3C4PJMB20TT216083",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1cf6132686de.html",
+      "condition": "new",
+      "price": 47390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2026 for salein Kelowna",
+      "vin": "3C4NJDAN5TT156286",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/859eabe6cc14.html",
+      "condition": "new",
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -5553,7 +5569,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango SXTin Kelowna",
+      "name": "New 2026 Dodge Durango SXTin Kelowna",
       "vin": "1C4RDJDG1TC319967",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/dde8d6bf9779.html",
       "year": 2026,
@@ -5872,7 +5888,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overland | INCL. REAR CARGO MATin Kelowna",
+      "name": "New 2026 Jeep Cherokee Overland | INCL. REAR CARGO MATin Kelowna",
       "vin": "3C4PJMC25TT276438",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/4d14f39e91bd.html",
       "year": 2026,
@@ -5883,7 +5899,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overland | INCL. REAR CARGO COVER TRAYin Kelowna",
+      "name": "New 2026 Jeep Cherokee Overland | INCL. REAR CARGO COVER TRAYin Kelowna",
       "vin": "3C4PJMC2XTT274233",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/dd3be0d4ffee.html",
       "year": 2026,
@@ -5894,7 +5910,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overland | INCL. REAR CARGO MATin Kelowna",
+      "name": "New 2026 Jeep Cherokee Overland | INCL. REAR CARGO MATin Kelowna",
       "vin": "3C4PJMC23TT276437",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/381ab759a5a3.html",
       "year": 2026,
@@ -5905,18 +5921,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMB20TT216083",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/1cf6132686de.html",
+      "name": "New 2026 Jeep Cherokee Laredoin Kelowna",
+      "vin": "3C4PJMB2XTT256364",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/226cdc803eba.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 47390.0,
+      "price": 48180.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass SPORT | DEMO CLEAROUT - SAVE $2500!in Kelowna",
+      "name": "New 2026 Jeep Compass SPORT | DEMO CLEAROUT - SAVE $2500!in Kelowna",
       "vin": "3C4NJDANXTT168241",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/2eea04ceeeff.html",
       "year": 2026,
@@ -5927,18 +5943,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sportin Kelowna",
+      "name": "New 2026 Jeep Compass SPORT | BLACK FRIDAY SAVE $4,500in Kelowna",
       "vin": "3C4NJDAN5TT156286",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/8d7dfb2603ea.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 36995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Kelowna",
+      "name": "New 2026 Jeep Compass Northin Kelowna",
       "vin": "3C4NJDBNXTT235757",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/2bbd0765458b.html",
       "year": 2026,
@@ -5949,7 +5965,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Kelowna",
+      "name": "New 2026 Jeep Compass Northin Kelowna",
       "vin": "3C4NJDBN9TT235796",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/49b9527ba03f.html",
       "year": 2026,
@@ -5960,7 +5976,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Kelowna",
+      "name": "New 2026 Jeep Compass Northin Kelowna",
       "vin": "3C4NJDBN0TT235797",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/04fa65218085.html",
       "year": 2026,
@@ -5971,7 +5987,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Kelowna",
+      "name": "New 2026 Jeep Compass Northin Kelowna",
       "vin": "3C4NJDBN2TT235798",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/af17581a5dee.html",
       "year": 2026,
@@ -5982,7 +5998,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Kelowna",
+      "name": "New 2026 Jeep Compass Northin Kelowna",
       "vin": "3C4NJDBNXTT235760",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/379ccb5af322.html",
       "year": 2026,
@@ -5993,7 +6009,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Kelowna",
+      "name": "New 2026 Jeep Compass Northin Kelowna",
       "vin": "3C4NJDBN3TT235759",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/18cead985d00.html",
       "year": 2026,
@@ -6004,25 +6020,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDANXTT168241",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/859eabe6cc14.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Willys | INC. SPLASH GUARDSin Kelowna",
+      "name": "New 2026 Jeep Gladiator Willys | MANAGER'S SPECIAL! | INC. SPLASH GUARDSin Kelowna",
       "vin": "1C6PJTAG8TL161649",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/10161d4a7102.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "new",
-      "price": 59995.0,
+      "price": 58995.0,
       "price_currency": "CAD"
     },
     {
