@@ -1,6 +1,6 @@
 {
   "dealership": "Okanagan Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-11-18T13:00:17",
+  "generated_at": "2026-11-18T13:24:31",
   "vehicle_count": 644,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1405,6 +1405,102 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chrysler Pacifica 2027 for salein Kelowna",
+      "vin": "2C4RC1BG3VR551602",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/63458b14b829.html",
+      "condition": "new",
+      "price": 55085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Charger 2027 for salein Kelowna",
+      "vin": "2C3CDAPP0VR606006",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/461d5880d41e.html",
+      "condition": "new",
+      "price": 65995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2027 for salein Kelowna",
+      "vin": "1C4SDJCT5VC582062",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/a9be0a659b06.html",
+      "condition": "new",
+      "price": 75330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2027 for salein Kelowna",
+      "vin": "1C6PJTAGXVL555589",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/c0d93229e944.html",
+      "condition": "new",
+      "price": 63120.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2027 for salein Kelowna",
+      "vin": "1C4RJHAR2VC554257",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/04567b49f83a.html",
+      "condition": "new",
+      "price": 71475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2027 for salein Kelowna",
+      "vin": "1C6SRFU99VN595247",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/05910a1caf8a.html",
+      "condition": "new",
+      "price": 170212.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2027 for salein Kelowna",
+      "vin": "3C63R3GL6VG419761",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/89d027831e03.html",
+      "condition": "new",
+      "price": 93700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2018 for salein Kelowna",
+      "vin": "KM8J3CA24JU650419",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/51f4618ed123.html",
+      "condition": "new",
+      "price": 12404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2018 for salein Kelowna",
+      "vin": "1C4HJXDG0JW153685",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/d008b40335ae.html",
+      "condition": "new",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2020 for salein Kelowna",
+      "vin": "KM8K1CAA7LU456889",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/33b4ea1f4e88.html",
+      "condition": "new",
+      "price": 17404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2020 for salein Kelowna",
+      "vin": "5NMS5CAA9LH229008",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/ef77530620a7.html",
+      "condition": "new",
+      "price": 26404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2020 for salein Kelowna",
+      "vin": "KM8J3CAL4LU247388",
+      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/7385f74685f8.html",
+      "condition": "new",
+      "price": 23404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2001 Dodge RAM 1500 ",
       "vin": "3B7HF13Z51G215081",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/2fae3391d3f7.html",
@@ -2226,17 +2322,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Hyundai Tucson ",
-      "vin": "KM8J3CA24JU650419",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/51f4618ed123.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 12904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Wrangler ",
       "vin": "1C4AJWAG0JL900347",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/used/d008b40335ae.html",
@@ -2244,17 +2329,6 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 21904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Jeep Wrangler ",
-      "vin": "1C4AJWAG0JL900347",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/d008b40335ae.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
       "price": 21904.0,
       "price_currency": "CAD"
     },
@@ -2904,39 +2978,6 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Kona ",
-      "vin": "KM8K6CAA0LU433066",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/33b4ea1f4e88.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Santa Fe ",
-      "vin": "5NMS5CAA9LH229008",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/ef77530620a7.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "new",
-      "price": 26904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Tucson ",
-      "vin": "KM8J3CA46LU222730",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/7385f74685f8.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
       "price": 17904.0,
       "price_currency": "CAD"
     },
@@ -6286,17 +6327,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica ",
-      "vin": "2C4RC1BG3VR551602",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/63458b14b829.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 55085.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Dodge Chargerin Kelowna",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/bd3a79ce1010.html",
       "year": 2027,
@@ -6314,28 +6344,6 @@
       "model": "Durangoin Kelowna",
       "condition": "new",
       "price": 62490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Dodge Charger ",
-      "vin": "2C3CDAPP0VR606006",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/461d5880d41e.html",
-      "year": 2027,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "new",
-      "price": 65995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Dodge Durango ",
-      "vin": "1C4SDJCT5VC582062",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/a9be0a659b06.html",
-      "year": 2027,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 80330.0,
       "price_currency": "CAD"
     },
     {
@@ -6426,7 +6434,7 @@
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "new",
-      "price": 61620.0,
+      "price": 63120.0,
       "price_currency": "CAD"
     },
     {
@@ -6441,28 +6449,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Gladiator ",
-      "vin": "1C6PJTAGXVL555589",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/c0d93229e944.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 61620.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAR2VC554257",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/04567b49f83a.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 71475.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Jeep Wrangler ",
       "vin": "1C4PJXDG1VW581475",
       "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/921c4be6bdaf.html",
@@ -6471,28 +6457,6 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 70510.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 ",
-      "vin": "1C6SRFU99VN595247",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/05910a1caf8a.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 167212.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 3500 ",
-      "vin": "3C63R3GL6VG419761",
-      "url": "https://willyml1979-dotcom.github.io/okanagan-chrysler-dodge-jeep-ram-mirror/new/89d027831e03.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 100200.0,
       "price_currency": "CAD"
     },
     {
